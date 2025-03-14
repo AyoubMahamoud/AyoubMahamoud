@@ -1,6 +1,4 @@
-## Hi, I'm Ayoub 👋
-
-🧠 Computer Science/Computational Linguistics student at USC<br/> 
+![Github Profile Header (1)](https://github.com/user-attachments/assets/9bb818be-6276-4c29-9a5e-d937e35d8d1b)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Ayo_ma21) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayoub-mahamoud) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amahamoud2021@gmail.com) 
